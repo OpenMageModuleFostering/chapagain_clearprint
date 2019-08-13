@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Chapagain_ClearPrint>
-            <version>0.1.0</version>
+            <version>0.1.1</version>
         </Chapagain_ClearPrint>
     </modules> 
     <frontend>
