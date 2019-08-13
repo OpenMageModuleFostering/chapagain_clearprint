@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Chapagain_ClearPrint",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Neat and clean print of products and shopping cart page.",
+    "authors": [
+    {
+        "name": "Mukesh Chapagain",
+        "email": "mukesh.chapagain@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
